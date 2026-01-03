@@ -41,14 +41,24 @@
     "editorBracketMatch.border": "#00B7A9",
 
     // Find / Search highlights
+<<<<<<< HEAD
     "editor.findMatchBackground": "#C0880033",
     "editor.findMatchHighlightBackground": "#C0880022",
     "editor.findRangeHighlightBackground": "#2687C915",
+=======
+    "editor.findMatchBackground": "#C0880066",
+    "editor.findMatchHighlightBackground": "#C0880044",
+    "editor.findRangeHighlightBackground": "#2687C928",
+>>>>>>> 3281b4a (Atualiza tema e imagens)
 
     // Diagnostics
     "errorForeground": "#E05256",
     "editorError.foreground": "#E05256",
+<<<<<<< HEAD
     "editorWarning.foreground": "#C08800",
+=======
+    "editorWarning.foreground": "#7e5b09",
+>>>>>>> 3281b4a (Atualiza tema e imagens)
     "editorInfo.foreground": "#2687C9",
 
     // --------------------------
@@ -73,7 +83,11 @@
     "activityBar.background": "#E6EAF3",
     "activityBar.foreground": "#1D1E24",
     "activityBar.inactiveForeground": "#6E768A",
+<<<<<<< HEAD
     "activityBarBadge.background": "#E7900E",
+=======
+    "activityBarBadge.background": "#ad8850",
+>>>>>>> 3281b4a (Atualiza tema e imagens)
     "activityBarBadge.foreground": "#1D1E24",
 
     // --------------------------
@@ -123,7 +137,11 @@
     // --------------------------
     "terminal.background": "#EEF1F7",
     "terminal.foreground": "#1D1E24",
+<<<<<<< HEAD
     "terminalCursor.foreground": "#E7900E",
+=======
+    "terminalCursor.foreground": "#744601",
+>>>>>>> 3281b4a (Atualiza tema e imagens)
 
     // --------------------------
     // INPUTS / SEARCH BAR / QUICK INPUT (Ctrl+P)

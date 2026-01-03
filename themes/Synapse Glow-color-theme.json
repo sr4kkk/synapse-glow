@@ -21,7 +21,11 @@
     // Editor
     // =========================
     "editor.background": "#1b1b1b",
+<<<<<<< HEAD
     "editor.foreground": "#a89b76",
+=======
+    "editor.foreground": "#c8bfa9",
+>>>>>>> 3281b4a (Atualiza tema e imagens)
 
     "editorLineNumber.foreground": "#739c5d",
     "editorLineNumber.activeForeground": "#e7900e",
@@ -56,9 +60,15 @@
     // =========================
     // Sidebar / Explorer
     // =========================
+<<<<<<< HEAD
     "sideBar.background": "#1b1b1b",
     "sideBar.foreground": "#E7EAF1",
     "sideBar.border": "#e7900e",
+=======
+    "sideBar.background": "#171717",
+    "sideBar.foreground": "#E7EAF1",
+    "sideBar.border": "#2a2a2a",
+>>>>>>> 3281b4a (Atualiza tema e imagens)
 
     "sideBarSectionHeader.background": "#853c01",
     "sideBarSectionHeader.foreground": "#E7EAF1",
@@ -74,6 +84,11 @@
     // Activity Bar (ícones da esquerda)
     // =========================
     "activityBar.background": "#1b1b1b",
+<<<<<<< HEAD
+=======
+    "activityBar.border": "#2a2a2a",
+    "statusBar.border": "#2a2a2a",
+>>>>>>> 3281b4a (Atualiza tema e imagens)
     "activityBar.foreground": "#E7EAF1",
     "activityBar.inactiveForeground": "#6A7186",
     "activityBarBadge.background": "#e7900e",
@@ -94,6 +109,7 @@
     // Tabs
     // =========================
     "tab.activeBackground": "#1b1b1b",
+<<<<<<< HEAD
     "tab.inactiveBackground": "#1b1b1b",
     "tab.activeForeground": "#E7EAF1",
     "tab.inactiveForeground": "#a89b76",
@@ -102,12 +118,27 @@
 
     "editorGroupHeader.tabsBackground": "#1b1b1b",
     "editorGroup.border": "#e7900e",
+=======
+    "tab.inactiveBackground": "#161616",
+    "tab.activeForeground": "#E7EAF1",
+    "tab.inactiveForeground": "#a89b76",
+    "tab.border": "#2a2a2a",
+    "tab.activeBorderTop": "#e7900e",
+
+    "editorGroupHeader.tabsBackground": "#161616",
+    "editorGroup.border": "#2a2a2a",
+>>>>>>> 3281b4a (Atualiza tema e imagens)
 
     // =========================
     // Panel (Terminal/Problems/Output)
     // =========================
+<<<<<<< HEAD
     "panel.background": "#1b1b1b",
     "panel.border": "#e7900e",
+=======
+    "panel.background": "#171717",
+    "panel.border": "#2a2a2a",
+>>>>>>> 3281b4a (Atualiza tema e imagens)
     "panelTitle.activeForeground": "#E7EAF1",
     "panelTitle.inactiveForeground": "#a89b76",
     "panelTitle.activeBorder": "#e7900e",
@@ -135,6 +166,31 @@
     "scrollbarSlider.hoverBackground": "#FFFFFF33",
     "scrollbarSlider.activeBackground": "#FFFFFF40",
 
+<<<<<<< HEAD
+=======
+    "minimapSlider.background": "#E7900E1A",
+    "minimapSlider.hoverBackground": "#E7900E2B",
+    "minimapSlider.activeBackground": "#E7900E3D",
+    "editorBracketHighlight.foreground1": "#e7900e",
+    "editorBracketHighlight.foreground2": "#97d4fa",
+    "editorBracketHighlight.foreground3": "#d2734d",
+    "editorBracketHighlight.foreground4": "#739c5d",
+    "editorBracketHighlight.foreground5": "#b56cff",
+    "editorBracketHighlight.foreground6": "#7CFFB2",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#FF6F74",
+    "editorBracketPairGuide.background1": "#e7900e22",
+    "editorBracketPairGuide.background2": "#97d4fa22",
+    "editorBracketPairGuide.background3": "#d2734d22",
+    "editorBracketPairGuide.background4": "#739c5d22",
+    "editorBracketPairGuide.background5": "#b56cff22",
+    "editorBracketPairGuide.background6": "#7CFFB222",
+    "editorBracketPairGuide.activeBackground1": "#e7900e44",
+    "editorBracketPairGuide.activeBackground2": "#97d4fa44",
+    "editorBracketPairGuide.activeBackground3": "#d2734d44",
+    "editorBracketPairGuide.activeBackground4": "#739c5d44",
+    "editorBracketPairGuide.activeBackground5": "#b56cff44",
+    "editorBracketPairGuide.activeBackground6": "#7CFFB244",
+>>>>>>> 3281b4a (Atualiza tema e imagens)
     // =========================
     // Git decorations
     // =========================
@@ -200,6 +256,42 @@
     "inputValidation.infoBorder": "#e7900e"
   },
 
+<<<<<<< HEAD
+=======
+
+  // ================================
+  // SEMANTIC TOKEN COLORS (mais preciso em TS/JS)
+  // ================================
+  "semanticTokenColors": {
+    "comment": "#739c5d",
+    "string": "#e7900e",
+    "number": "#ffb24a",
+
+    "keyword": "#d2734d",
+    "operator": "#6f8fd6",
+
+    "function": "#97d4fa",
+    "method": "#97d4fa",
+
+    "class": "#97d4fa",
+    "interface": "#97d4fa",
+    "type": "#97d4fa",
+    "typeParameter": "#97d4fa",
+
+    "parameter": "#bfb18f",
+    "variable": "#c8bfa9",
+    "property": "#97d4fa",
+
+    "enum": "#ffb24a",
+    "enumMember": "#ffb24a",
+
+    "namespace": "#97d4fa",
+    "decorator": "#e7900e",
+
+    "regexp": "#ffb24a"
+  },
+
+>>>>>>> 3281b4a (Atualiza tema e imagens)
   "tokenColors": [
     {
       "name": "Comments",
@@ -282,7 +374,11 @@
         "punctuation.definition"
       ],
       "settings": {
+<<<<<<< HEAD
         "foreground": "#425c91"
+=======
+        "foreground": "#6f8fd6"
+>>>>>>> 3281b4a (Atualiza tema e imagens)
       }
     },
     {
