@@ -3,7 +3,7 @@
   "displayName": "Synapse Glow",
   "publisher": "Sr4kkk",
   "description": "Synapse Glow é um tema que mistura atmosfera futurista com elegância minimalista. Ele usa contrastes suaves entre tons escuros e toques luminosos para criar a sensação de um ambiente digital pulsante — como se cada linha de código estivesse conectada por circuitos vivos. O foco é manter uma leitura limpa, com cores que brilham sutilmente sem cansar os olhos, trazendo um visual moderno, energético e imersivo para longas sessões de programação.",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "engines": {
     "vscode": "^1.106.1"
   },
